@@ -2,4 +2,7 @@
 Simple color game created with Javascript, HTML, CSS
 
 
-view site below 
+view website hosted below!
+
+https://farriskabalaoui.github.io/colorGame/
+
